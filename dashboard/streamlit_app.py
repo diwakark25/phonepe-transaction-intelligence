@@ -448,7 +448,7 @@ class PhonePeDashboard:
             )
         
         st.sidebar.markdown("---")
-        st.sidebar.markdown("**Developed by:** Data Analytics Team")
+        st.sidebar.markdown("**Developed by:** Diwakar K")
         st.sidebar.markdown("**Version:** 1.0.0")
     
     def render_overview(self):
